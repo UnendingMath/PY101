@@ -1,0 +1,27 @@
+{
+    "welcome": {
+        "question": "What language should we use?\n 1) English\n 2) Spanish"
+    },
+    "english": {
+        "loan_amount": "Enter the total loan amount: ",
+        "apr_amount": "Enter the Annual Percentage Rate (APR) of the loan (e.g. 2.99 for 2.99%)",
+        "duration_amount": "Enter the loan's duration (in years): ",
+        "invalid_number": "Please enter a valid number: ",
+        "result_loan": "Loan Amount: ",
+        "result_apr": "APR: ",
+        "result_years": "Duration: ",
+        "result_payment": "Your monthly payment is: $",
+        "another_calc": "Do you want to run another calculation?"
+    },
+    "spanish": {
+        "loan_amount": "Ingrese el monto total del préstamo: ",
+        "apr_amount": "Ingrese la tasa de porcentaje anual (APR) del préstamo (p. ej., 2.99 para 2.99%)",
+        "duration_amount": "Ingrese la duración del préstamo (en años): ",
+        "invalid_number": "Por favor, ingrese un número válido: ",
+        "result_loan": "Monto del préstamo: ",
+        "result_apr": "Tasa de interés anual: ",
+        "result_years": "Duración: ",
+        "result_payment": "Su pago mensual es: $",
+        "another_calc": "¿Quieres realizar otro cálculo?"
+    }
+}

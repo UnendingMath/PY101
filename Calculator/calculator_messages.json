@@ -1,10 +1,32 @@
 {
-    "welcome": "Welcome to Calculator!",
-    "first_number": "What's the first number?",
-    "second_number": "What's the second number?",
-    "invalid_number": "Hmm... that doesn't look like a valid number.",
-    "operation": "What operation would you like to perform?\n1) Add \n2) Subtract \n3) Multiply \n4) Divide\n",
-    "invalid_operation": "Hmm... that doesn't look like a valid operation.",
-    "result": "The result is: ",
-    "another": "Do you want to perform another calculation? (y/n)"
+    "language":
+    {
+        "welcome": "Please choose a language:\n 1) English\n 2) Spanish",
+        "invalid_language": "Hmm... that doesn't look like a valid language."
+    },
+    "english":
+    {
+        "welcome": "Welcome to Calculator!",
+        "first_number": "What's the first number? (e.g., 3.5):",
+        "second_number": "What's the second number? (e.g., 2.5):",
+        "invalid_number": "Hmm... that doesn't look like a valid number.",
+        "operation": "What operation would you like to perform?\n1) Add \n2) Subtract \n3) Multiply \n4) Divide\n",
+        "invalid_operation": "Hmm... that doesn't look like a valid operation.",
+        "result": "The result is: ",
+        "another": "Do you want to perform another calculation? (y/n)",
+        "divide_by_zero": "Cannot divide by zero."
+    },
+
+    "spanish":
+    {
+        "welcome": "¡Bienvenido a la calculadora!",
+        "first_number": "¿Cuál es el primer número? (e.g., 3.5)",
+        "second_number": "¿Cuál es el segundo número? (e.g., 2.5)",
+        "invalid_number": "Hmm... eso no parece ser un número válido.",
+        "operation": "¿Qué operación te gustaría realizar?\n1) Sumar \n2) Restar \n3) Multiplicar \n4) Dividir\n",
+        "invalid_operation": "Hmm... eso no parece ser una operación válida.",
+        "result": "El resultado es: ",
+        "another": "¿Quieres realizar otro cálculo? (y/n)",
+        "divide_by_zero": "No se puede dividir entre cero."
+    }
 }
